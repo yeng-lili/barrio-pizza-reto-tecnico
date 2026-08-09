@@ -2,7 +2,7 @@
 
 Sistema inteligente para planificar el abastecimiento de ingredientes de **Barrio Pizza**, una cadena de pizzerías con sucursales en Panamá. El dashboard revisa automáticamente las órdenes de compra semanales, proyecta el consumo de cada ingrediente y genera alertas claras y accionables, eliminando la necesidad de revisar producto por producto de forma manual.
 
-## Qué resuelve
+## ¿Qué resuelve?
 
 Cada semana, cada sucursal decide cuánto pedir "al ojo", lo que genera dos problemas recurrentes: pedidos de más (capital inmovilizado y producto que se vence) y pedidos de menos (quiebres de stock en pleno servicio). El dashboard automatiza esa revisión:
 
@@ -26,7 +26,7 @@ Cada semana, cada sucursal decide cuánto pedir "al ojo", lo que genera dos prob
 
 ---
 
-## Cómo correrlo
+## ¿Cómo correrlo?
 
 ```bash
 git clone <repositorio>
