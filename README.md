@@ -1,12 +1,6 @@
-# 🍕 BarrioPizzaStock IA
+# BarrioPizzaStock IA
 
 Sistema inteligente para planificar el abastecimiento de ingredientes de **Barrio Pizza**, una cadena de pizzerías con sucursales en Panamá. El dashboard revisa automáticamente las órdenes de compra semanales, proyecta el consumo de cada ingrediente y genera alertas claras y accionables, eliminando la necesidad de revisar producto por producto de forma manual.
-
-## Demo en vivo
-
-[https://7wnpywu3i9zn9awemynpju.streamlit.app](https://7wnpywu3i9zn9awemynpju.streamlit.app)
-
----
 
 ## Qué resuelve
 
